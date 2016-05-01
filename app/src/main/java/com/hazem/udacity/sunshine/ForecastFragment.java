@@ -81,6 +81,8 @@ public class ForecastFragment extends Fragment {
         return super.onOptionsItemSelected(item);
     }
 
+
+
     private List<String> getDataSet(){
         ArrayList<String> data=new ArrayList<>();
         data.add("Mon 6/23 - Sunny - 31/17");
